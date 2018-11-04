@@ -1,8 +1,8 @@
 {
-  "name": "leachzhou-site",
+  "name": "tuziblog",
   "version": "1.0.0",
   "description": "This is a revised website that uses new technologies and new designs.",
-  "author": "LeachZhou <leachzhou@163.com>",
+  "author": "TuziMoe <a@tuzi.moe>",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
